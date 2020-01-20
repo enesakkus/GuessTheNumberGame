@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572994268 source:c:\users\ethem\desktop\c programming\22-) unit5_exercises\5.32-) guessthenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
